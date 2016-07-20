@@ -1,2 +1,2 @@
 # OVSDB_monitoring
-Monitor client OpenVSwitch DB
+Monitor client for OpenVSwitch DB
